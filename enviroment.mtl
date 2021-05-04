@@ -10,6 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
+map_Ka woodtexture.jpg
 map_Kd woodtexture.jpg
 
 newmtl Ceil
@@ -21,6 +22,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
+map_Ka ceil.jpg
 map_Kd ceil.jpg
 
 newmtl Floor
@@ -33,6 +35,7 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Bump WoodFloor044_1K_Normal.jpg
+map_Ka WoodFloor044_1k_Normal.jpg
 map_Kd WoodFloor044_1K_Color.jpg
 
 newmtl Metal_-_Gold
